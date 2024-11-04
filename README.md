@@ -7,6 +7,8 @@ Welcome to the Download Box of reSouRCe repository! This repository provides a c
 | File Name | Version | Size | Download Link |
 |-----|:---:|:---:|:---:|
 | competitive programmer's handbook | 1.0.0 | 1.05MB | [donwload](https://github.com/onlyfans-icpc/src/releases/download/db/competitive-programmers-handbook.pdf) |
+| Nutella Notebook | .docx | 749KB | [donwload](https://github.com/onlyfans-icpc/src/releases/download/db/nutella.docx) |
+| Nutella Notebook | .pdf | 549KB | [donwload](https://github.com/onlyfans-icpc/src/releases/download/db/nutella-notebook.pdf) |
 
 <br><details>
   <summary>for contribute (click me)</summary>
